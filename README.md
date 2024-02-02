@@ -26,6 +26,8 @@ Geo Mapping: https://www.datacamp.com/tutorial/making-map-in-python-using-plotly
 
 Pandas Copy Dataframe: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.copy.html#pandas.DataFrame.copy
 
+Gitignore for API Keys: https://medium.com/@t.rosen2101/how-to-create-a-gitignore-file-to-hide-your-api-keys-95b3e6692e41 
+
 ChatGPT: used to assist in coding and formatting. : chat.openai.com
 
 Scatter plotting class work: referenced in class work to assist in code and format.
